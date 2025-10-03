@@ -30,7 +30,11 @@ npm run dev
 **Edit a file directly in GitHub**
 
 - Navigate to the desired file(s).
+<<<<<<< HEAD
 - Click the "Edit" button (pencil ) at the top right of the file view.
+=======
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+>>>>>>> 5c420ea2f94f16158c449158d40e2fb16d92916d
 - Make your changes and commit the changes.
 
 **Use GitHub Codespaces**
